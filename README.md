@@ -33,11 +33,3 @@ We use:
 
 Each event contains 200 particles with (E, px, py, pz), and the leading fat jet is reconstructed using the anti-kT algorithm.
 
-
----
-
-##  Dataset
-
-The dataset `val.h5` is downloaded from Zenodo:
-https://zenodo.org/records/2603256/files/val.h5
-
